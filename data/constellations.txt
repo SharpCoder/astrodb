@@ -1,0 +1,89 @@
+01	Andromeda	Andromedae	And	Andr	722.278	19
+02	Antlia	Antliae	Ant	Antl	238.901	62
+03	Apus	Apodis	Aps	Apus	206.327	68
+04	Aquarius	Aquarii	Aqr	Aqar	979.854	10
+05	Aquila	Aquilae	Aql	Aqil	652.473	22
+06	Ara	Arae	Ara	Arae	237.057	63
+07	Aries	Arietis	Ari	Arie	441.395	38
+08	Auriga	Aurigae	Aur	Auri	657.438	21
+09	Bootes	Bootis	Boo	Boot	906.831	13
+10	Caelum	Caeli	Cae	Cael	124.865	82
+11	Camelopardalis	Camelopardalis	Cam	Caml	756.828	18
+12	Cancer	Cancri	Cnc	Canc	505.872	30
+13	Canes Venatici	Canum Venaticorum	CVn	CVen	465.194	37
+14	Canis Major	Canis Majoris	CMa	CMaj	380.118	43
+15	Canis Minor	Canis Minoris	CMi	CMin	183.367	72
+16	Capricornus	Capricorni	Cap	Capr	413.947	40
+17	Carina	Carinae	Car	Cari	494.184	33
+18	Cassiopeia	Cassiopeiae	Cas	Cass	598.407	24
+19	Centaurus	Centauri	Cen	Cent	1060.422	9
+20	Cepheus	Cephei	Cep	Ceph	587.787	26
+21	Cetus	Ceti	Cet	Ceti	1231.411	4
+22	Chamaeleon	Chamaeleontis	Cha	Cham	131.592	80
+23	Circinus	Circini	Cir	Circ	93.353	86
+24	Columba	Columbae	Col	Colm	270.184	54
+25	Coma Berenices	Comae Berenices	Com	Coma	386.475	42
+26	Corona Australis	Coronae Australis	CrA	CorA	127.696	81
+27	Corona Borealis	Coronae Borealis	CrB	CorB	178.710	74
+28	Corvus	Corvi	Crv	Corv	183.801	71
+29	Crater	Crateris	Crt	Crat	282.398	53
+30	Crux	Crucis	Cru	Cruc	68.447	89
+31	Cygnus	Cygni	Cyg	Cygn	803.983	16
+32	Delphinus	Delphini	Del	Dlph	188.549	70
+33	Dorado	Doradus	Dor	Dora	179.173	73
+34	Draco	Draconis	Dra	Drac	1082.952	8
+35	Equuleus	Equulei	Equ	Equi	71.641	88
+36	Eridanus	Eridani	Eri	Erid	1137.919	6
+37	Fornax	Fornacis	For	Forn	397.502	41
+38	Gemini	Geminorum	Gem	Gemi	513.761	29
+39	Grus	Gruis	Gru	Grus	365.513	45
+40	Hercules	Herculis	Her	Here	1225.148	5
+41	Horologium	Horologii	Hor	Horo	248.885	58
+42	Hydra	Hydrae	Hya	Hyda	1302.844	1
+43	Hydrus	Hydri	Hyi	Hydi	243.035	61
+44	Indus	Indi	Ind	Indi	294.006	49
+45	Lacerta	Lacertae	Lac	Lacr	200.688	69
+46	Leo	Leonis	Leo	Leon	946.964	12
+47	Leo Minor	Leo Minoris	LMi	LMin	231.956	64
+48	Lepus	Leporis	Lep	Leps	290.291	51
+49	Libra	Librae	Lib	Libr	538.052	28
+50	Lupus	Lupi	Lup	Lupi	333.683	46
+51	Lynx	Lyncis	Lyn	Lyne	545.386	27
+52	Lyra	Lyrae	Lyr	Lyra	286.476	52
+53	Mensa	Mensae	Men	Mens	153.484	76
+54	Microscopium	Microscopii	Mic	Micr	209.513	66
+55	Monoceros	Monocerotis	Mon	Mono	481.569	34
+56	Musca	Muscae	Mus	Musc	138.355	78
+57	Norma	Normae	Nor	Norm	165.290	75
+58	Octans	Octantis	Oct	Octa	291.045	50
+59	Ophiuchus	Ophiuchi	Oph	Ophi	948.340	11
+60	Orion	Orionis	Ori	Orio	594.120	25
+61	Pavo	Pavonis	Pav	Pavo	377.666	44
+62	Pegasus	Pegasi	Peg	Pegs	1120.794	7
+63	Perseus	Persei	Per	Pers	614.997	23
+64	Phoenix	Phoenicis	Phe	Phoe	469.319	36
+65	Pictor	Pictoris	Pic	Pict	246.739	59
+66	Pisces	Piscium	Psc	Pisc	889.417	14
+67	Piscis Austrinus	Piscis Austrini	PsA	PscA	245.375	60
+68	Puppis	Puppis	Pup	Pupp	673.434	20
+69	Pyxis	Pyxidis	Pyx	Pyxi	220.833	65
+70	Reticulum	Reticuli	Ret	Reti	113.936	83
+71	Sagitta	Sagittae	Sge	Sgre	79.932	87
+72	Sagittarius	Sagittarii	Sgr	Sgtr	867.432	15
+73	Scorpius	Scorpii	Sco	Scor	496.783	32
+74	Sculptor	Sculptoris	Scl	Scul	474.764	35
+75	Scutum	Scuti	Sct	Scut	109.114	85
+76a	Serpens Caput	Serpentis	Ser	Serp	428.484	39
+76b	Serpens Cauda	Serpentis	Ser	Serp	208.444	67
+77	Sextans	Sextantis	Sex	Sext	313.515	47
+78	Taurus	Tauri	Tau	Taur	797.249	17
+79	Telescopium	Telescopii	Tel	Tele	251.512	57
+80	Triangulum	Trianguli	Tri	Tria	131.847	79
+81	Triangulum Australe	Trianguli Australis	TrA	TrAu	109.978	84
+82	Tucana	Tucanae	Tuc	Tuca	294.557	48
+83	Ursa Major	Ursae Majoris	UMa	UMaj	1279.660	3
+84	Ursa Minor	Ursae Minoris	UMi	UMin	255.864	56
+85	Vela	Velorum	Vel	Velr	499.649	31
+86	Virgo	Virginis	Vir	Virg	1294.428	2
+87	Volans	Volantis	Vol	Voln	141.354	77
+88	Vulpecula	Vulpeculae	Vul	Vulp	268.165	55
