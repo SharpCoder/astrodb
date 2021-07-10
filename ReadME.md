@@ -59,8 +59,6 @@ In order to de-dupe all databases with each other, I've devised a `dup_id` field
 | bv_mag             | blue light spectrum magnitude                               |
 | ub_mag             | ultraviolet light spectrum magnitude (I think)              |
 
-## Known Bugs
-I am aware of at least one "bug". My sanitization step which tries to reconcile abbreviations with the constellations mis-categorized at least one named celestial object. As a result, we are presented with the lovely naming convention of NGC 6357 which ends up becoming "The War Andromeda Peace Nebula". There are probably other examples of this which I have not yet discovered. Work to mitigate that is in the works.
 
 ## Databases
 
